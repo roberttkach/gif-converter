@@ -13,8 +13,8 @@ Additionally, `moviepy` has some dependencies that need to be installed separate
 ## Usage
 
 1. Open the script in a text editor.
-2. Replace `/путь/к/вашему/видеофайлу.mp4` with the actual path to your video file.
-3. Replace `/путь/к/вашему/файлу.gif` with the desired path and filename for the output GIF file.
+2. Replace `/path/to/your/videofile.mp4` with the actual path to your video file.
+3. Replace `/path to/your/file.gif` with the desired path and filename for the output GIF file.
 4. Adjust the values of `start_time` and `end_time` (in seconds) to specify the portion of the video you want to convert.
 5. Set the desired values for `gif_duration` (in seconds) and `gif_width` (in pixels).
 6. If you want to add text to the GIF, replace `"Ваш текст здесь"` with your desired text.
