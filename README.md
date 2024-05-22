@@ -17,7 +17,7 @@ Additionally, `moviepy` has some dependencies that need to be installed separate
 3. Replace `/path to/your/file.gif` with the desired path and filename for the output GIF file.
 4. Adjust the values of `start_time` and `end_time` (in seconds) to specify the portion of the video you want to convert.
 5. Set the desired values for `gif_duration` (in seconds) and `gif_width` (in pixels).
-6. If you want to add text to the GIF, replace `"Ваш текст здесь"` with your desired text.
+6. If you want to add text to the GIF, replace `"Your text is here"` with your desired text.
 7. Save the script and run it using a Python interpreter.
 
 The script will create a GIF file with the specified settings and save it to the specified location.
